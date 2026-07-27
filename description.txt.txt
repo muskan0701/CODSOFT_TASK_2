@@ -1,0 +1,12 @@
+Iris Flower Classification
+
+This project was developed during my CodSoft Data Science Internship.
+
+It uses Machine Learning to classify Iris flowers into different species based on their measurements. The project includes data preprocessing, model training, evaluation, and prediction using Python.
+
+Technologies Used:
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
